@@ -1,6 +1,6 @@
 # Bot_Selenium_PY
 
-This project for fun ;)
-7mar project is a sample selenium code for login page in Instagram using python language.
+This project for fun
+project is a simple selenium code for login page on Instagram using python language.
 
-I use selenium in Firefox and Chrome browsers.
+The selenium can open on Firefox and Chrome browsers.
