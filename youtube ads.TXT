@@ -1,0 +1,10 @@
+image to skip
+class
+ytp-ad-image
+
+(sleep 5)
+
+skip youtube 
+class 
+
+ytp-ad-skip-button-icon
